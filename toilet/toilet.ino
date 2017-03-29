@@ -3,7 +3,7 @@ int pump=10;    //input number
 int tap=11;     //input number
 int counter=0;
 int attempt=0;
-
+int pictogram=2;//input number
 unsigned long x;
 
 void pump_on(int x)
