@@ -1,7 +1,6 @@
 int p_switch =3;//input number
 int pump=10;    //input number
 int tap=11;     //input number
-int pictogram=2;//input number
 int counter=0;
 int attempt=0;
 
